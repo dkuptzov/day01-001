@@ -1,0 +1,6 @@
+Line number one
+Line two has numbers 123 and letters ABC
+Numbers only: 456
+Letters only: XYZ
+Special characters: !@#$%
+Mixed content: A1B2C3D4E5F6G7H8I9J0KLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
